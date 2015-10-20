@@ -14,9 +14,7 @@ Yo he trabajado con *calidris mauri*, esta ave luce asi:
 
 para _agregar_ una imagen desde mi equipo
 
-![water-image](C:\Users\Javi\Desktop\javi-btea-nb\img\garza.jpg)
-
-
+![GARZA](C:\Users\Javi\Desktop\javi-btea-nb\img\garza.jpg)
 
 
 
