@@ -8,16 +8,30 @@
 
 Yo he trabajado con *calidris mauri*, esta ave luce asi:
 
+![calidris](http://farm3.static.flickr.com/2438/3790679950_4868feb5cd.jpg)
 
-![[calidris mauri]](http://farm3.static.flickr.com/2438/3790679950_4868feb5cd.jpg)
+
+
+para _agregar_ una imagen desde mi equipo
+
+![water-image](C:\Users\Javi\Desktop\javi-btea-nb\img\garza.jpg)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 ---
-
-
 blastn \
 - query data file \
 - database fish \
-- 
+---
